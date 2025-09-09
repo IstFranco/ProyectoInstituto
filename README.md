@@ -14,17 +14,17 @@ El objetivo principal es que cualquier persona interesada en estudiar en el inst
 - ✅ Diseñar una interfaz extremadamente simple, priorizando la **usabilidad** y la **navegación intuitiva**.  
 - ✅ Permitir filtrar, buscar y explorar fácilmente los planes de estudio.  
 - ✅ Comenzar por el **frontend** y progresivamente integrar funcionalidades backend (carga de planes, administración, etc.).  
-- ✅ Adoptar **metodologías ágiles (Scrum/Kanban)** para organizar el desarrollo iterativo.  
+- ✅ Adoptar **metodologías ágiles** para organizar el desarrollo iterativo.  
 - ✅ Crecer como desarrollador, ya que este es mi **primer proyecto real**.  
 
 ---
 
 ## 🛠️ Tecnologías utilizadas  
 
-- **React 18**  
+- **React**  
 - **TypeScript**  
 - **Bootstrap 5** (UI y grid system)  
-- **Vite** (opcional, para desarrollo rápido y build optimizado)  
+- **Vite** 
 
 ---
 
@@ -33,10 +33,6 @@ El objetivo principal es que cualquier persona interesada en estudiar en el inst
 El desarrollo se realiza con un enfoque **ágil**:  
 
 - **Sprints cortos** de 1-2 semanas.  
-- **Tablero Kanban** (GitHub Projects o Trello) para organizar tareas.  
 - **Iteraciones incrementales**: se entrega valor funcional en cada ciclo.  
 - **Feedback continuo** de los usuarios finales (personas interesadas en los planes).  
-- **Aprendizaje constante**, dado que es mi **primer proyecto profesional**.  
-
-
-
+- **Aprendizaje constante**, dado que es mi **primer proyecto profesional**.
