@@ -38,7 +38,5 @@ El desarrollo se realiza con un enfoque **ágil**:
 - **Feedback continuo** de los usuarios finales (personas interesadas en los planes).  
 - **Aprendizaje constante**, dado que es mi **primer proyecto profesional**.  
 
----
 
-## 📂 Estructura del proyecto  
 
